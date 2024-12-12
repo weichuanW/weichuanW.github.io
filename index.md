@@ -1,10 +1,8 @@
 ---
-title: About Alembic
+title: Weichuan Wang's Personal Page
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+  ## Hi
+  My name is Weichuan Wang, Currently I'm a third-year PhD candidate at the Department of Computer Science of City University of Hong Kong [https://www.cs.cityu.edu.hk/]."
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
