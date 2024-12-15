@@ -135,8 +135,8 @@ navigation_header:
   #url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-- title: Contact me
-  url: weicwang2-c@my.cityu.edu.hk
+- title: Contact me: weicwang2-c[at]my[dot]cityu[dot]edu[dot]hk
+  #url: weicwang2-c@my.cityu.edu.hk
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   #Twitter: https://twitter.com/DavidDarnes
