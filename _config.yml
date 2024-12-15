@@ -125,8 +125,8 @@ navigation_header:
   url: https://weichuanw.github.io/
 #- title: Elements
   #url: /elements/
-- title: Blog
-  url: /blog/
+#- title: Blog
+  #url: /blog/
 #- title: Categories
   #url: /categories/
 #- title: Search
