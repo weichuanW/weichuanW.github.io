@@ -39,15 +39,14 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+  username: weichuanW # jekyll-seo-tag > Owners twitter username
+author: Weichuan Wang # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Weichuan Wang # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+    - https://github.com/weichuanW
+    - https://weichuanw.github.io
+    - https://scholar.google.com.hk/citations?hl=en&user=v89zqgQAAAAJ
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -96,9 +95,10 @@ lang: en-GB # Set the site language
 title: "Weichuan Wang" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Exploring The Translation With Machine" # Site description and default description, also used in jekyll-seo-tag
-url: "" # Site url, also used in jekyll-seo-tag
-baseurl: "https://weichuanw.github.io/"
-repo: "https://github.com/weichuanW/weichuanW.github.io/"
+# User GitHub Pages: set url to the site origin; keep baseurl empty.
+url: "https://weichuanw.github.io"
+baseurl: ""
+repo: "https://github.com/weichuanW/weichuanW.github.io"
 email: "weicwang2-c@my.cityu.edu.hk"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
@@ -136,7 +136,7 @@ navigation_header:
 
 navigation_footer:
 - title: Contact me
-  #url: weicwang2-c@my.cityu.edu.hk
+  url: mailto:weicwang2-c@my.cityu.edu.hk
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   #Twitter: https://twitter.com/DavidDarnes
