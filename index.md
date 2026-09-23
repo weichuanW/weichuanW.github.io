@@ -6,7 +6,7 @@ feature_text: |
 feature_image: /assets/figures/cloud1.jpg
 ---
 
-I am currently a PhD candidate in the [Department of Computer Science at City University of Hong Kong](https://www.cs.cityu.edu.hk/), supervised by [Prof. Chen Ma](https://allenjack.github.io/) and co-supervised by [Prof. Linqi Song](https://sites.google.com/site/aisquaredlab/). I also work closely with [Prof. Ying Wei](https://wei-ying.net/). Prior to this, I earned my B.S. and M.S. degrees at the [School of Computer Science, Wuhan University](https://cs.whu.edu.cn/), where I was supervised by [Prof. Jin Liu](https://cs.whu.edu.cn/info/1019/2952.htm) on topics related to Knowledge Graphs and Link Prediction.
+I am currently a PhD candidate in the [Department of Computer Science at City University of Hong Kong](https://www.cs.cityu.edu.hk/), supervised by [Prof. Chen Ma](https://allenjack.github.io/) and co-supervised by [Prof. Linqi Song](https://sites.google.com/site/aisquaredlab/). Prior to this, I earned my B.S. and M.S. degrees at the [School of Computer Science, Wuhan University](https://cs.whu.edu.cn/), where I was supervised by [Prof. Jin Liu](https://cs.whu.edu.cn/info/1019/2952.htm) on topics related to Knowledge Graphs and Link Prediction.
 
 My research focuses on the reliability of LLM-based machine translation (MT). I study how and why LLM-based MT systems fail — including language mismatch, repetitive generation, and non-deterministic decoding — and develop interpretability-driven and evaluation-aware remedies for safer deployment.
 
