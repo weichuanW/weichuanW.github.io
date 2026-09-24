@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <meta name="theme-color" content="#f6f3eb">
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/logos/logo.svg' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/personal-home.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="site-wrap">
+    <header class="site-header" aria-label="Site header">
+      <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="Weichuan Wang, home"><span class="wordmark-symbol" aria-hidden="true">W<span>·</span></span><span>Weichuan Wang<span class="wordmark-dot">.</span></span></a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="#research">Current work</a>
+        <a href="#previous">Earlier work</a>
+        <a href="#publications">Publications</a>
+        <a href="#about">About</a>
+      </nav>
+      <a class="header-contact" href="mailto:{{ site.email }}">Say hello <span aria-hidden="true">↗</span></a>
+    </header>
+    {{ content }}
+    <footer class="site-footer">
+      <a class="footer-brand" href="{{ '/' | relative_url }}">Weichuan Wang <span aria-hidden="true">✳</span></a>
+      <p>Tracing how intelligence unfolds over time.</p>
+      <div class="footer-links"><a href="https://scholar.google.com.hk/citations?hl=en&amp;user=v89zqgQAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar ↗</a><a href="https://github.com/weichuanW" target="_blank" rel="noopener noreferrer">GitHub ↗</a><a href="mailto:{{ site.email }}">Email ↗</a></div>
+    </footer>
+  </div>
+</body>
+</html>

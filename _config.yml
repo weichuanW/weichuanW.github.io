@@ -94,7 +94,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Weichuan Wang" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Exploring The Translation With Machine" # Site description and default description, also used in jekyll-seo-tag
+description: "PhD candidate at CityU studying trajectory evolution and interaction intelligence." # Site description and default description, also used in jekyll-seo-tag
 # User GitHub Pages: set url to the site origin; keep baseurl empty.
 url: "https://weichuanw.github.io"
 baseurl: ""
